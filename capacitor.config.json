@@ -1,0 +1,10 @@
+{
+  "appId": "aconceptaday.proyectoviviana.dev",
+  "appName": "a-concept-a-day",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
